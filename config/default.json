@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "tornado",
+  "mongoUri": "mongodb+srv://James:uPwKfdQQ0711@cluster0.64awx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
